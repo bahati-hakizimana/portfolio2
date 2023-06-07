@@ -24,8 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            I have an experience in react and Laravel
           </p>
         </motion.div>
 
@@ -38,11 +37,11 @@ const MySkills = () => {
               <img
                 alt="skills"
                 className="z-10"
-                src="assets/skills-image.png"
+                src="assets/skills-image.jepg"
               />
             </div>
           ) : (
-            <img alt="skills" className="z-10" src="assets/skills-image.png" />
+            <img alt="skills" className="z-10" src="assets/skills-image.jepg" />
           )}
         </div>
       </div>
@@ -71,9 +70,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+             Reiciendis praesentium mollitia ipsa possimus est odio
+              adipisci consectetur accusamus quasi,
+             nostrum ad, asperiores dolore aspernatur minus laborum, corrupti quos laboriosam rem.
           </p>
         </motion.div>
 
@@ -99,10 +99,9 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolorem inventore? 
+            Quisquam ut itaque qui unde! Quibusdam libero sed ex maxime 
+            autem iure aliquid odit provident, culpa nobis exercitationem quas.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +126,11 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+           Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Nam officia libero,
+             necessitatibus accusantium cum voluptatum blanditiis,
+              consequatur animi praesentium vel enim? Consectetur a 
+              corrupti quasi sapiente amet, aut obcaecati laborum!
           </p>
         </motion.div>
       </div>
